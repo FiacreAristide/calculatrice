@@ -36,3 +36,6 @@ P07:https://youtu.be/v-U-HjnCDv4
 P08:https://youtu.be/5V7qrmX3F_Q
 P09:https://youtu.be/TMxL-m-9qZA
 P10:https://youtu.be/gnZFixA0I3I
+
+## Lien Google Docs:
+https://docs.google.com/document/d/1QIsuJkcrF_HlK9Z9D7gz5PhDYB8citU10EVJNdCAh8I/edit?usp=share_link
